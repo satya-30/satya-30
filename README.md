@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satya-30
-- 👀 I’m interested in contribtuing 
+- 👀 I’m interested in data science and cloud computing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python software solution
 - 📫 How to reach me mail me on satya.071410@gmail.com
